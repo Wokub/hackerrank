@@ -1,9 +1,9 @@
-<!--
+/*
 Print the following two lines of output:
 
     On the first line, print Hello, World! (this is provided for you in the editor).
     On the second line, print the contents of parameterVariable.
--->
+*/
 
 
 'use strict';
