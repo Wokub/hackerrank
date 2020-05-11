@@ -1,0 +1,14 @@
+#btns {
+    position: relative;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    width: 75%;
+}
+
+#btn1, #btn2, #btn3, #btn4, #btn5, #btn6, #btn7, #btn8, #btn9 {
+    position: relative;
+    width: 30%;
+    height: 48px;
+    font-size: 24px;
+}
